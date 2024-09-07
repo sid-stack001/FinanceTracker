@@ -22,20 +22,15 @@ To run this application, you need to have Python installed on your machine. This
 
 
 2. **Run the Application: Ensure you have Python installed, then run the script**:
-   '''bash
+```bash
    python finance_tracker.py
-   '''
+```
 
-**File Structure**:
-   '''bash
+## File Structure:
+```bash
    finance_tracker/
 │
 ├── finance_tracker.py       # Main application script
 ├── finance_data.csv         # Stores financial records (created automatically)
 └── README.md                # Project description and instructions
-
-   '''
-
-
-   
-   
+```
