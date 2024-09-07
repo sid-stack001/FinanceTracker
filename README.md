@@ -28,7 +28,7 @@ To run this application, you need to have Python installed on your machine. This
 
 ## File Structure:
 ```bash
-   finance_tracker/
+finance_tracker/
 │
 ├── finance_tracker.py       # Main application script
 ├── finance_data.csv         # Stores financial records (created automatically)
