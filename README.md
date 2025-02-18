@@ -34,3 +34,6 @@ finance_tracker/
 ├── finance_data.csv         # Stores financial records (created automatically)
 └── README.md                # Project description and instructions
 ```
+
+
+![image](https://github.com/user-attachments/assets/50720693-b1d0-4bf0-8b41-3b6ff23092be)
